@@ -1,0 +1,6 @@
+
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰†πÄ8û‰ò‘È0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(é’ïü8·Ω®‘È0
+H
+java:S1168""+Return an empty collection instead of null.(•πÔç8Õ•ô‘È0
